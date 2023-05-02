@@ -26,3 +26,6 @@ const questions = [
   },
 ];
 
+let currentQuestionIndex = 0;
+let timer;
+let timeRemaining = 60;
